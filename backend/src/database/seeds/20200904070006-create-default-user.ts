@@ -13,7 +13,7 @@ module.exports = {
               name: "Admin",
               email: "admin@admin.com",
               profile: "admin",
-              passwordHash,
+              passwordHash: "$2a$08$WaEmpmFDD/XkDqorkpQ42eUZozOqRCPkPcTkmHHMyuTGUOkI8dHsq",
               companyId: 1,
               createdAt: new Date(),
               updatedAt: new Date(),
